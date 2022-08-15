@@ -7,7 +7,7 @@
   * `pyrcc5 pysplitter.qrc -o pysplitter_rc.py`
 -----
 2. 調整程式
-  * codeing splitter.py
+  * coding splitter.py
 -----
 3. 編譯成EXE檔
  * pyinstaller -F -icon="C:\python\splitter\logo.ico" splitter.py
