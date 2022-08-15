@@ -15,3 +15,7 @@
  * conda create -n splitter_env python==3.8
  * conda activate splitter_env  #激活虛擬環境
  * conda deactivate             #退出虛擬環境
+ 
+ 畫面圖
+ ------
+ ![image](https://user-images.githubusercontent.com/45743812/184643137-aaab6f93-5778-485b-b9ef-5a33841e29db.png)
