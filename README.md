@@ -1,6 +1,6 @@
 # pysplitter
 資料分隔工具
-
+使用 python 3.8 or python3.9 搭配 PyQt5 協作開發而成
 
 1. 編譯畫面
   * `pyuic5 pysplitter.ui -o pysplitter.py`
